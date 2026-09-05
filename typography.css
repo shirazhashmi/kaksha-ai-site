@@ -1,0 +1,8 @@
+.accent-line{
+  color:var(--purple);
+  display:inline-block;
+  font-size:.88em;
+  font-style:normal;
+  font-weight:600;
+  letter-spacing:-2.2px;
+}
